@@ -1,4 +1,8 @@
+/Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/BaseException.java
+/Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/DefaultExceptionMappers.java
 /Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/ExtensionsResource.java
 /Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/Extension.java
 /Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/ExtensionsService.java
-/Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/DefaultWriter.java
+/Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/Utils.java
+/Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/DefaultStringWriter.java
+/Users/rronjahiri/IdeaProjects/quarkus-rest-client-reactive/src/main/java/org/acme/rest/client/ErrorResponse.java
