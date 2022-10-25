@@ -54,7 +54,9 @@ public class DefaultWriter<T> implements ServerMessageBodyWriter<T> {
                             .toJson(Json.createValue((String) t), JsonString.class)
                             .getBytes(StandardCharsets.UTF_8));
         } else {
-            entityStream.write(jsonb.toJson(t, type).getBytes(StandardCharsets.UTF_8));
+
+            jsonb.toJson(t, type, entityStream);
+//            entityStream.write(jsonb.toJson(t, type).getBytes(StandardCharsets.UTF_8));
         }
     }
 
